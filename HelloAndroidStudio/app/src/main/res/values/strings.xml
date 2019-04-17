@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloAndroidStudio</string>
+
+    <!-- L -->
+    <string name="login">Login</string>
+
+    <!-- M -->
+    <string name="msg_erro_login">Login incorreto</string>
+    <string name="msg_bem_vindo">Bem vindo %1$s</string>
+
+    <!-- S -->
+    <string name="senha">senha</string>
+
+</resources>
